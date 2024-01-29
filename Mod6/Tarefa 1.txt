@@ -1,0 +1,7 @@
+Programacao procedural;
+Pelo que eu entendi existe passos a cumprir, tem o inicio meio e fim nao posso comecar pelo
+fim, organiza o código em torno de procedimentos, funções ou rotinas.
+As funções são unidades autônomas que realizam tarefas específicas.
+Ja a programacao orientada a objetos 
+organiza o código em torno de objetos, que encapsulam dados e comportamentos
+e ja a programacao de objeto orientada podemos comecar de qualquer lado. 
